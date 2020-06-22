@@ -23,14 +23,3 @@ npm run dev
 
 3. Open: http://localhost:5000
 
-## 👋 Colaborators
-
-### Developers 💻
-
-- Johan Villanueva - [@johanfvn](https://twitter.com/johanfvn)
-- Cristhian Chuna - [@cristhianpcv](https://www.facebook.com/cristhianpcv)
-- Jairo Gil - [@jairogiltesen](https://www.facebook.com/jairo.giltesen)
-
-### Designer 🎨
-
-- Stephany Marin - [@steffmarin](https://www.behance.net/stephanmarinc)
