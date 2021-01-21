@@ -19,7 +19,7 @@
   "dependencies": {
     "clipboardy": "^2.3.0",
     "sirv-cli": "^0.4.4",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "svelte-alerter-component": "^1.3.0",
     "toastr": "^2.1.4"
   }
